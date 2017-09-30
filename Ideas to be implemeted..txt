@@ -1,0 +1,3 @@
+Ideas for the Android Project 
+1.  Google Map based project in which  we can track multiple devices from using your device.Use case- In families it can be used 
+2.  Game like angry bird in which things can be thrown using rubber band to throw the things on the enemy to destroy them and win the game.
